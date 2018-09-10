@@ -1,1 +1,1 @@
-# cryptostickers-web
+# CryptoStickers Website
